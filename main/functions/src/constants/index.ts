@@ -1,0 +1,9 @@
+export const HOST_URL = 'https://wavefoundry.io';
+export const LINK_COLOR = '#007bff';
+export const PRODUCTS = 'products';
+export const PAID_ORDERS = 'paidOrders';
+export const COUPONS = "coupons";
+export const STAGED_ORDERS = 'stagedOrders';
+export const TABLE_STYLE = `border-collapse: collapse; width: 100%;`;
+export const ADMIN_EMAILS = ["byates123@gmail.com"];
+export const ADMIN_UID = "adf";

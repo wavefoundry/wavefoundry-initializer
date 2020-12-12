@@ -1,0 +1,11 @@
+{
+  "name": "wavefoundry-initializer",
+  "version": "1.0.0",
+  "description": "Initial template scaffolding for wavefoundry e-commerce site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
