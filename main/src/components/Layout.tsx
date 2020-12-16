@@ -121,7 +121,7 @@ const Layout: React.FC<LayoutProps> = ({
         <title>{calculatedTitle}</title>
         <meta name="description" content={pageDescription} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={pageURL} />
+        <meta property="og:url" content={`${HOST_URL}${pageURL}`} />
         <meta property="og:description" content={pageDescription} />
         <meta property="og:title" content={calculatedTitle} />
         <meta property="og:image" content={ogImage} />
